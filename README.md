@@ -1,2 +1,3 @@
-# ctrl-alt-del.group
-Website at ctrl-alt-del.group
+# Control Alt Delete Collective
+
+![](logo.png)
